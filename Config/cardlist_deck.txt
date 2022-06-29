@@ -1,0 +1,462 @@
+1,Goblin Shaman,1,1,750,15,Fire
+2,Giant Roc,1,1,750,15,Fire
+3,Kobold Miner,1,1,750,15,Fire
+4,Fire Beetle,1,1,750,15,Fire
+5,Malric Inferno,1,2,3000,60,Fire
+6,Serpentine Soldier,1,2,3000,60,Fire
+7,Pit Ogre,1,2,3000,60,Fire
+8,Cerberus,1,2,3000,60,Fire
+9,Fire Demon,1,3,15000,300,Fire
+10,Serpent of the Flame,1,3,15000,300,Fire
+11,Elemental Phoenix,1,4,75000,1500,Fire
+12,Pirate Captain,1,1,750,15,Water
+13,Spineback Turtle,1,1,750,15,Water
+14,Crustacean King,1,1,750,15,Water
+15,Sabre Shark,1,1,750,15,Water
+16,Alric Stormbringer,1,2,3000,60,Water
+17,Medusa,1,2,3000,60,Water
+18,Water Elemental,1,2,3000,60,Water
+19,Frozen Soldier,1,2,3000,60,Water
+20,Mischievous Mermaid,1,3,15000,300,Water
+21,Naga Warrior,1,3,15000,300,Water
+22,Frost Giant,1,4,75000,1500,Water
+23,Flesh Golem,1,1,750,15,Earth
+24,Goblin Sorcerer,1,1,750,15,Earth
+25,Rexxie,1,1,750,15,Earth
+26,Minotaur Warrior,1,1,750,15,Earth
+27,Lyanna Natura,1,2,3000,60,Earth
+28,Earth Elemental,1,2,3000,60,Earth
+29,Stone Golem,1,2,3000,60,Earth
+30,Stonesplitter Orc,1,2,3000,60,Earth
+31,Magi of the Forest,1,3,15000,300,Earth
+32,Swamp Thing,1,3,15000,300,Earth
+33,Spirit of the Forest,1,4,75000,1500,Earth
+34,Divine Healer,1,1,750,15,Life
+35,Feral Spirit,1,1,750,15,Life
+36,Silvershield Knight,1,1,750,15,Life
+37,Silvershield Warrior,1,1,750,15,Life
+38,Tyrus Paladium,1,2,3000,60,Life
+39,Peacebringer,1,2,3000,60,Life
+40,Silvershield Paladin,1,2,3000,60,Life
+41,Clay Golem,1,2,3000,60,Life
+42,Defender of Truth,1,3,15000,300,Life
+43,Air Elemental,1,3,15000,300,Life
+44,Angel of Light,1,4,75000,1500,Life
+45,Animated Corpse,1,1,750,15,Death
+46,Haunted Spider,1,1,750,15,Death
+47,Skeleton Assassin,1,1,750,15,Death
+48,Spineback Wolf,1,1,750,15,Death
+49,Zintar Mortalis,1,2,3000,60,Death
+50,Haunted Spirit,1,2,3000,60,Death
+51,Twisted Jester,1,2,3000,60,Death
+52,Undead Priest,1,2,3000,60,Death
+53,Dark Enchantress,1,3,15000,300,Death
+54,Screaming Banshee,1,3,15000,300,Death
+55,Lord of Darkness,1,4,75000,1500,Death
+56,Selenia Sky,1,4,75000,1500,Dragon
+57,Lightning Dragon,1,4,75000,1500,Dragon
+58,Chromatic Dragon,1,4,75000,1500,Dragon
+59,Gold Dragon,1,4,75000,1500,Dragon
+60,Peaceful Giant,1,1,750,15,Neutral
+61,Grumpy Dwarf,1,1,750,15,Neutral
+62,Elven Cutthroat,1,1,750,15,Neutral
+63,Centaur,1,1,750,15,Neutral
+64,Cocatrice,1,2,3000,60,Neutral
+65,Cyclops,1,2,3000,60,Neutral
+66,Enchanted Pixie,1,2,3000,60,Neutral
+67,Raging Impaler,1,3,15000,300,Neutral
+68,Magi Sphinx,1,3,15000,300,Neutral
+69,Hydra,1,4,75000,1500,Neutral
+70,Talia Firestorm,1,3,15000,300,Fire
+71,Xia Seachan,1,3,15000,300,Water
+72,Xander Foxwood,1,3,15000,300,Earth
+73,Kiara Lightbringer,1,3,15000,300,Life
+74,Jarlax the Undead,1,3,15000,300,Death
+75,Dragon Whelp,2,1,1500,30,Dragon
+76,Royal Dragon Archer,2,3,30000,600,Dragon
+77,Shin-Lo,2,4,150000,3000,Dragon
+78,Neb Seni,2,2,6000,120,Dragon
+79,Highland Archer,3,1,750,15,Neutral
+80,Rusty Android,3,1,750,15,Neutral
+81,Hobgoblin,3,2,3000,60,Neutral
+82,Lord Arianthus,3,4,75000,1500,Neutral
+83,Sea Genie,3,1,750,15,Water
+84,Divine Sorceress,3,3,15000,300,Life
+85,Mushroom Seer,3,2,3000,60,Earth
+86,Vampire,3,1,750,15,Death
+87,Flame Imp,3,2,3000,60,Fire
+88,Daria Dragonscale,3,3,15000,300,Dragon
+89,Sacred Unicorn,3,4,75000,1500,Life
+90,Wood Nymph,3,1,750,15,Earth
+91,Creeping Ooze,3,1,750,15,Neutral
+92,Phantom Soldier,3,3,15000,300,Death
+93,Pirate Archer,3,2,3000,60,Water
+94,Naga Fire Wizard,3,2,3000,60,Fire
+95,Brownie,3,3,15000,300,Earth
+96,Silvershield Archers,3,1,750,15,Life
+97,Goblin Mech,3,1,750,15,Neutral
+98,Ruler of the Seas,3,4,75000,1500,Water
+99,Skeletal Warrior,3,2,3000,60,Death
+100,Imp Bowman,3,3,15000,300,Fire
+101,Crystal Werewolf,3,2,3000,60,Life
+102,Javelin Thrower,3,2,3000,60,Earth
+103,Sea Monster,3,1,750,15,Water
+104,Prismatic Energy,3,2,3000,60,Neutral
+105,Undead Minotaur,3,1,750,15,Death
+106,Exploding Dwarf,3,1,750,15,Fire
+107,Manticore,3,3,15000,300,Dragon
+108,Black Dragon,3,4,75000,1500,Dragon
+109,Crypt Mancer,1,4,75000,1500,Death
+110,Plado Emberstorm,1,4,75000,1500,Fire
+111,Valnamor,1,4,75000,1500,Water
+112,Prince Rennyn,1,4,75000,1500,Earth
+113,The Peakrider,1,4,75000,1500,Life
+114,Delwyn Dragonscale,2,1,1500,30,Dragon
+115,Dragonling Bowman,2,2,6000,120,Dragon
+116,Fiendish Harpy,2,3,30000,600,Dragon
+117,Red Dragon,2,4,150000,3000,Dragon
+118,Armorsmith,2,1,1500,30,Life
+119,Silvershield Bard,2,2,6000,120,Life
+120,Goblin Chef,2,1,1500,30,Earth
+121,Minotaur Warlord,2,4,150000,3000,Earth
+122,Electric Eels,2,2,6000,120,Water
+123,Mermaid Healer,2,3,30000,600,Water
+124,Undead Archer,2,2,6000,120,Death
+125,Corrupted Pegasus,2,4,150000,3000,Death
+126,Molten Ogre,2,1,1500,30,Fire
+127,Lord of Fire,2,4,150000,3000,Fire
+128,Enchanted Defender,2,1,1500,30,Neutral
+129,Dwarven Wizard,2,3,30000,600,Neutral
+130,Archmage Arius,2,4,150000,3000,Dragon
+131,Furious Chicken,3,2,3000,60,Neutral
+132,Fallen Specter,3,4,75000,1500,Death
+133,Beetle Queen,3,2,3000,60,Fire
+134,Naga Windmaster,3,2,3000,60,Water
+135,Maggots,4,1,500,10,Death
+136,Cursed Slimeball,4,1,500,10,Death
+137,Giant Scorpion,4,1,500,10,Death
+138,Undead Badger,4,1,500,10,Death
+139,Dark Astronomer,4,2,2000,40,Death
+140,Bone Golem,4,2,2000,40,Death
+141,Death Elemental,4,2,2000,40,Death
+142,Soulstorm,4,3,10000,200,Death
+143,Darkest Mage,4,3,10000,200,Death
+144,Dark Ha'on,4,4,50000,1000,Death
+145,Contessa L'ament,4,2,2000,40,Death
+146,Cave Slug,4,1,500,10,Life
+147,Crystal Jaguar,4,1,500,10,Life
+148,Lone Boatman,4,1,500,10,Life
+149,Herbalist,4,1,500,10,Life
+150,Truthspeaker,4,2,2000,40,Life
+151,Luminous Eagle,4,2,2000,40,Life
+152,Shieldbearer,4,2,2000,40,Life
+153,Light Elemental,4,3,10000,200,Life
+154,Thunderbird,4,3,10000,200,Life
+155,High Priest Darius,4,4,50000,1000,Life
+156,Mother Khala,4,2,2000,40,Life
+157,Kobold Bruiser,4,1,500,10,Fire
+158,Serpentine Spy,4,1,500,10,Fire
+159,Magma Troll,4,1,500,10,Fire
+160,Goblin Fireballer,4,1,500,10,Fire
+161,Fire Elemental,4,2,2000,40,Fire
+162,Living Lava,4,2,2000,40,Fire
+163,Spark Pixies,4,2,2000,40,Fire
+164,Ferexia General,4,3,10000,200,Fire
+165,Pyromaniac,4,3,10000,200,Fire
+166,Magnor,4,4,50000,1000,Fire
+167,Pyre,4,2,2000,40,Fire
+168,Feasting Seaweed,4,1,500,10,Water
+169,Albatross,4,1,500,10,Water
+170,Tortisian Fighter,4,1,500,10,Water
+171,Sniping Narwhal,4,1,500,10,Water
+172,Ice Pixie,4,2,2000,40,Water
+173,Giant Squid,4,2,2000,40,Water
+174,Serpent of Eld,4,2,2000,40,Water
+175,Coral Wraith,4,3,10000,200,Water
+176,Azmare Harpoonist,4,3,10000,200,Water
+177,Phantom of the Abyss,4,4,50000,1000,Water
+178,Bortus,4,2,2000,40,Water
+179,Goblin Thief,4,1,500,10,Earth
+180,Failed Summoner,4,1,500,10,Earth
+181,Biceratops,4,1,500,10,Earth
+182,Orc Sergeant,4,1,500,10,Earth
+183,Khmer Princess,4,2,2000,40,Earth
+184,Unicorn Mustang,4,2,2000,40,Earth
+185,Child of the Forest,4,2,2000,40,Earth
+186,Mitica Headhunter,4,3,10000,200,Earth
+187,Sporcerer,4,3,10000,200,Earth
+188,Kron the Undying,4,4,50000,1000,Earth
+189,Wizard of Eastwood,4,2,2000,40,Earth
+190,Elven Defender,4,1,500,10,Neutral
+191,Horny Toad,4,1,500,10,Neutral
+192,Mantoid,4,1,500,10,Neutral
+193,Parasitic Growth,4,1,500,10,Neutral
+194,Elven Mystic,4,2,2000,40,Neutral
+195,Goblin Chariot,4,2,2000,40,Neutral
+196,Tower Griffin,4,2,2000,40,Neutral
+197,War Chaang,4,3,10000,200,Neutral
+198,Tortisian Chief,4,3,10000,200,Neutral
+199,Cornealus,4,4,50000,1000,Neutral
+200,Camila Sungazer,4,4,50000,1000,Dragon
+201,The Vigilator,4,4,50000,1000,Dragon
+202,Scale Doctor,4,4,50000,1000,Dragon
+203,Dragon Jumper,4,4,50000,1000,Dragon
+204,Gloridax Magus,4,4,50000,1000,Dragon
+205,Prince Julian,2,4,150000,3000,Dragon
+206,Boogeyman,3,2,3000,60,Death
+207,Spirit Miner,3,4,75000,1500,Neutral
+208,Battle Orca,3,2,3000,60,Water
+209,Chain Golem,4,4,50000,1000,Neutral
+210,Diamond Dragon,4,4,50000,1000,Dragon
+211,Gloridax Guardian,4,4,50000,1000,Dragon
+212,Fire Spitter,3,3,15000,300,Dragon
+213,The Kraken,3,4,75000,1500,Water
+214,Ettin Spearman,3,1,750,15,Fire
+215,Octopider,3,2,3000,60,Death
+216,Silvershield Assassin,3,2,3000,60,Life
+217,Baby Unicorn,3,1,750,15,Life
+218,Gelatinous Cube,3,1,750,15,Neutral
+219,Gremlin Blaster,3,2,3000,60,Neutral
+220,Screeching Vulture,3,1,750,15,Earth
+221,Spirit Shaman,3,3,15000,300,Earth
+222,Zalran Efreet,3,4,75000,1500,Fire
+223,Serpentine Mystic,3,2,3000,60,Dragon
+224,Drake of Arnak,4,2,2000,40,Dragon
+225,Barking Spider,3,1,500,10,Earth
+226,Nectar Queen,3,1,500,10,Earth
+227,Flame Monkey,3,1,500,10,Fire
+228,Pyromancer,3,3,10000,200,Fire
+229,Undead Rexx,3,1,500,10,Death
+230,Shadowy Presence,3,3,10000,200,Death
+231,Torhilo the Frozen,3,3,10000,200,Water
+232,Wave Runner,3,1,500,10,Water
+233,Warrior of Peace,3,1,500,10,Life
+234,Evangelist,3,3,10000,200,Life
+235,Mimosa Nightshade,4,4,50000,1000,Death
+236,Yodin Zaku,4,4,50000,1000,Fire
+237,Halfling Alchemist,2,3,30000,600,Neutral
+238,Mighty Dricken,2,4,150000,3000,Dragon
+239,Chanseus the Great,4,4,50000,1000,Life
+240,Kretch Tallevor,3,3,10000,200,Dragon
+241,Onyx Sentinel,3,3,10000,200,Neutral
+242,Sand Worm,3,1,500,10,Neutral
+243,Silvershield Sheriff,3,2,2000,40,Life
+244,Bila the Radiant,3,4,50000,1000,Life
+245,Grim Reaper,3,2,2000,40,Death
+246,Phantasm,3,1,500,10,Death
+247,Fineas Rage,3,2,2000,40,Fire
+248,Ant Miners,3,1,500,10,Fire
+249,Spirit Druid Grog,3,4,50000,1000,Earth
+250,Captain's Ghost,3,2,2000,40,Water
+251,Kelp Initiate,3,2,2000,40,Water
+252,Gloridax Soldier,3,2,2000,40,Dragon
+253,Centauri Mage,3,2,2000,40,Earth
+254,Lir Deepswimmer,4,4,50000,1000,Water
+255,Robo-Dragon Knight,3,4,50000,1000,Dragon
+256,Ancient Lich,3,4,50000,1000,Death
+257,Vera Salacia,5,2,2000,40,Water
+258,Owster Rotwell,5,2,2000,40,Death
+259,Mylor Crowling,5,2,2000,40,Earth
+260,Qid Yuff,5,2,2000,40,Fire
+261,Lorna Shine,5,2,2000,40,Life
+262,Brighton Bloom,5,2,2000,40,Dragon
+263,Poseidon,5,4,50000,1000,Water
+264,Frost Lion,5,1,500,10,Water
+265,Caladuum,5,4,50000,1000,Fire
+266,Flamesmith,5,1,500,10,Fire
+267,Cthulhu,5,4,50000,1000,Death
+268,Marrow's Ghost,5,1,500,10,Death
+269,Kralus,5,4,50000,1000,Life
+270,Lunakari Mistress,5,3,10000,200,Life
+271,Oaken Behemoth,5,4,50000,1000,Earth
+272,Goblin Dartling,5,1,500,10,Earth
+273,Battering Ram,5,1,500,10,Neutral
+274,Naga Brute,5,1,500,10,Dragon
+275,Dragon Spirit,5,3,10000,200,Dragon
+276,Grenadier,5,3,10000,200,Neutral
+277,Lensmaster,5,4,50000,1000,Life
+278,Scarred Llama Mage,4,4,50000,1000,Earth
+279,Beatrix Ironhand,4,3,10000,200,Earth
+280,Axemaster,3,3,10000,200,Water
+281,Charlok Minotaur,3,1,500,10,Fire
+282,Dark Ferryman,3,2,2000,40,Death
+283,Chain Spinner,3,1,500,10,Life
+284,Harvester,3,1,500,10,Earth
+285,Nightmare,3,1,500,10,Death
+286,Almo Cambio,3,4,50000,1000,Neutral
+287,Demented Shark,3,1,500,10,Water
+288,Temple Priest,3,2,2000,40,Life
+289,Efreet Elder,3,2,2000,40,Fire
+290,Theorosa Nightshade,5,4,50000,1000,Death
+291,Byzantine Kitty,4,4,50000,1000,Dragon
+292,Goblin Firemage,4,3,10000,200,Fire
+293,Lobstradamus,4,3,10000,200,Water
+294,The Gorlodon,4,3,10000,200,Death
+295,Hero of Beyond,4,3,10000,200,Life
+296,Two Gun Pete,5,4,50000,1000,Water
+297,Epona,5,4,50000,1000,Earth
+298,Aganju,5,4,50000,1000,Fire
+299,Chimney Wallstop,6,1,500,10,Fire
+300,Krash Wanderford,6,1,500,10,Fire
+301,Orella Abadon,6,2,2000,40,Fire
+302,Sarius,6,2,2000,40,Fire
+303,Gorth,6,3,10000,200,Fire
+304,Fina Voxom,6,4,50000,1000,Fire
+305,Alva the Crusher,6,1,500,10,Water
+306,Isgald Vorst,6,1,500,10,Water
+307,Alfredo,6,2,2000,40,Water
+308,Relenor Cleaver,6,2,2000,40,Water
+309,Edith Emberstar,6,3,10000,200,Water
+310,Flagulon Reine,6,4,50000,1000,Water
+311,Bertrol Gobson,6,1,500,10,Earth
+312,Katrelba Gobson,6,1,500,10,Earth
+313,Cutter Brieze,6,2,2000,40,Earth
+314,Palidon Rakk,6,2,2000,40,Earth
+315,Quora Towershead,6,3,10000,200,Earth
+316,Jini Guise,6,4,50000,1000,Earth
+317,Helmet Kharafax,6,1,500,10,Life
+318,Hugo Strongsword,6,1,500,10,Life
+319,Ajax Lightfoot,6,2,2000,40,Life
+320,Captain Katie,6,2,2000,40,Life
+321,Marisol Contuma,6,3,10000,200,Life
+322,Sola Ranjell,6,4,50000,1000,Life
+323,Whistling Damon,6,1,500,10,Death
+324,Witch of Warwick,6,1,500,10,Death
+325,Kotriphus Bayne,6,2,2000,40,Death
+326,Liza Fox,6,2,2000,40,Death
+327,Trapp Falloway,6,3,10000,200,Death
+328,Xulax Nightwind,6,4,50000,1000,Death
+329,Larissa Kerato,6,4,50000,1000,Dragon
+330,Tatiana Blayde,6,4,50000,1000,Neutral
+331,Venari Heatsmith,3,1,125,5,Fire
+332,Exploding Rats,3,2,500,20,Fire
+333,Lava Launcher,3,3,2500,100,Fire
+334,Pelacor Mercenary,3,1,125,5,Earth
+335,Venari Seedsmith,3,2,500,20,Earth
+336,Djinn Biljka,3,4,12500,500,Earth
+337,Pelacor Bandit,3,1,125,5,Water
+338,Venari Wavesmith,3,2,500,20,Water
+339,Djinn Oshannus,3,4,12500,500,Water
+340,Pelacor Deceiver,3,1,125,5,Death
+341,Venari Bonesmith,3,2,500,20,Death
+342,Harklaw,3,4,12500,500,Death
+343,Pelacor Conjurer,3,1,125,5,Life
+344,Venari Crystalsmith,3,2,500,20,Life
+345,Djinn Renova,3,3,2500,100,Life
+346,Naga Assassin,3,2,500,20,Dragon
+347,Twilight Basilisk,3,2,500,20,Dragon
+348,Djinn Chwala,3,3,2500,100,Dragon
+349,Gargoya Lion,3,1,125,5,Neutral
+350,Gargoya Devil,3,2,500,20,Neutral
+351,Uraeus,3,3,2500,100,Neutral
+352,Doctor Blight,7,4,12500,500,Neutral
+353,Carrion Shade,7,1,125,5,Death
+354,Riftwing,7,1,125,5,Death
+355,Shadow Snitch,7,1,125,5,Death
+356,Crypt Beetle,7,1,125,5,Death
+357,Silent Sha-vi,7,1,125,5,Death
+358,Soul Strangler,7,2,500,20,Death
+359,Life Sapper,7,2,500,20,Death
+360,Dhampir Stalker,7,2,500,20,Death
+361,Cursed Windeku,7,2,500,20,Death
+362,Magi Necrosi,7,3,2500,100,Death
+363,Insidious Warlock,7,3,2500,100,Death
+364,Weirding Warrior,7,3,2500,100,Death
+365,Djinn Muirat,7,4,12500,500,Death
+366,Corpse Fiend,7,4,12500,500,Death
+367,Mycelic Morphoid,7,1,125,5,Earth
+368,Venari Knifer,7,1,125,5,Earth
+369,Venari Scout,7,1,125,5,Earth
+370,Hill Giant,7,1,125,5,Earth
+371,Goblin Psychic,7,1,125,5,Earth
+372,Mycelic Slipspawn,7,2,500,20,Earth
+373,Regal Peryton,7,2,500,20,Earth
+374,Goblin Tower,7,2,500,20,Earth
+375,Mycelic Infantry,7,2,500,20,Earth
+376,Grund,7,3,2500,100,Earth
+377,Hunter Jarx,7,3,2500,100,Earth
+378,Acid Shooter,7,3,2500,100,Earth
+379,Queen Mycelia,7,4,12500,500,Earth
+380,Fungus Fiend,7,4,12500,500,Earth
+381,Hardy Stonefish,7,1,125,5,Water
+382,Kulu Swimhunter,7,1,125,5,Water
+383,Cruel Sethropod,7,1,125,5,Water
+384,Flying Squid,7,1,125,5,Water
+385,Deeplurker,7,1,125,5,Water
+386,Angelic Mandarin,7,2,500,20,Water
+387,Merdaali Guardian,7,2,500,20,Water
+388,Diemonshark,7,2,500,20,Water
+389,River Nymph,7,2,500,20,Water
+390,Nerissa Tridawn,7,3,2500,100,Water
+391,Wave Brood,7,3,2500,100,Water
+392,Igor Darkspear,7,3,2500,100,Water
+393,River Hellondale,7,4,12500,500,Water
+394,Torrent Fiend,7,4,12500,500,Water
+395,Radiated Scorcher,7,1,125,5,Fire
+396,Lava Spider,7,1,125,5,Fire
+397,Radiated Brute,7,1,125,5,Fire
+398,Scavo Chemist,7,1,125,5,Fire
+399,Antoid Platoon,7,1,125,5,Fire
+400,Scavo Firebolt,7,2,500,20,Fire
+401,Tenyii Striker,7,2,500,20,Fire
+402,Djinn Apprentice,7,2,500,20,Fire
+403,Molten Ash Golem,7,2,500,20,Fire
+404,Forgotten One,7,3,2500,100,Fire
+405,Tusk the Wide,7,3,2500,100,Fire
+406,Djinn Inferni,7,3,2500,100,Fire
+407,Ifrit Rising,7,4,12500,500,Fire
+408,Scorch Fiend,7,4,12500,500,Fire
+409,Gargoya Scrapper,7,1,125,5,Life
+410,Sunkai Harvester,7,1,125,5,Life
+411,Stitch Leech,7,1,125,5,Life
+412,Blinding Reflector,7,1,125,5,Life
+413,Chaos Knight,7,1,125,5,Life
+414,Celestial Harpy,7,2,500,20,Life
+415,Time Mage,7,2,500,20,Life
+416,Portal Spinner,7,2,500,20,Life
+417,Pelacor Arbalest,7,2,500,20,Life
+418,Temporal Master,7,3,2500,100,Life
+419,Prismologist,7,3,2500,100,Life
+420,Dax Paragon,7,3,2500,100,Life
+421,Adelade Brightwing,7,4,12500,500,Life
+422,Soul Fiend,7,4,12500,500,Life
+423,Supply Runner,7,1,125,5,Neutral
+424,Scavo Hireling,7,1,125,5,Neutral
+425,Disintegrator,7,1,125,5,Neutral
+426,Chaos Agent,7,1,125,5,Neutral
+427,Xenith Archer,7,2,500,20,Neutral
+428,Xenith Monk,7,2,500,20,Neutral
+429,Venari Spellsmith,7,2,500,20,Neutral
+430,Magi of Chaos,7,3,2500,100,Neutral
+431,Gem Meteor,7,3,2500,100,Neutral
+432,Legionnaire Alvar,7,4,12500,500,Neutral
+433,Chaos Dragon,7,4,12500,500,Dragon
+434,Desert Dragon,7,4,12500,500,Dragon
+435,Zyvax Vuul,7,4,12500,500,Dragon
+436,Void Dragon,7,4,12500,500,Dragon
+437,Kelya Frendul,7,2,500,20,Water
+438,Thaddius Brood,7,2,500,20,Death
+439,Obsidian,7,2,500,20,Earth
+440,Tarsa,7,2,500,20,Fire
+441,General Sloan,7,2,500,20,Life
+442,Quix the Devious,7,4,12500,500,Dragon
+443,Baakjira,7,4,12500,500,Water
+444,Uriel the Purifier,7,4,12500,500,Life
+445,Lira the Dark,7,4,12500,500,Death
+446,Iza the Fanged,7,4,12500,500,Earth
+447,Grum Flameblade,7,4,12500,500,Fire
+448,Spirit Hoarder,7,4,12500,500,Neutral
+449,Waka Spiritblade,2,4,25000,500,Death
+450,Carnage Titan,7,4,12500,500,Dragon
+451,Vampire Bat,3,1,125,5,Earth
+452,,,,,,Water
+453,Ever-Hungry Skull,3,1,125,5,Death
+454,Blood Maker,3,1,125,5,Fire
+455,Vulguine,3,2,500,20,Life
+456,Vampiric Blossom,3,2,500,20,Earth
+457,Dhampir Infiltrator,3,2,500,20,Dragon
+458,Revealer,3,3,2500,100,Death
+459,Tide Biter,3,3,2500,100,Water
+460,Jared Scar,3,4,12500,500,Life
+461,Countess Sinash,3,4,12500,500,Fire
+462,Venator Kinjo,3,4,12500,500,Neutral
