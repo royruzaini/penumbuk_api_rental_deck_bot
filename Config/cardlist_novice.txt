@@ -1,0 +1,17 @@
+342,Harklaw,3,4,12500,500,Death
+362,Magi Necrosi,7,3,2500,100,Death
+363,Insidious Warlock,7,3,2500,100,Death
+364,Weirding Warrior,7,3,2500,100,Death
+365,Djinn Muirat,7,4,12500,500,Death
+366,Corpse Fiend,7,4,12500,500,Death
+445,Lira the Dark,7,4,12500,500,Death
+458,Revealer,3,3,2500,100,Death
+242,Sand Worm,3,1,500,10,Neutral
+241,Onyx Sentinel,3,3,10000,200,Neutral
+351,Uraeus,3,3,2500,100,Neutral
+462,Venator Kinjo,3,4,12500,500,Neutral
+352,Doctor Blight,7,4,12500,500,Neutral
+430,Magi of Chaos,7,3,2500,100,Neutral
+431,Gem Meteor,7,3,2500,100,Neutral
+432,Legionnaire Alvar,7,4,12500,500,Neutral
+448,Spirit Hoarder,7,4,12500,500,Neutral

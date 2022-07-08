@@ -1,0 +1,31 @@
+135,Maggots,4,1,500,10,Death
+136,Cursed Slimeball,4,1,500,10,Death
+138,Undead Badger,4,1,500,10,Death
+139,Dark Astronomer,4,2,2000,40,Death
+140,Bone Golem,4,2,2000,40,Death
+141,Death Elemental,4,2,2000,40,Death
+145,Contessa L'ament,4,2,2000,40,Death
+258,Owster Rotwell,5,2,2000,40,Death
+285,Nightmare,3,1,500,10,Death
+340,Pelacor Deceiver,3,1,125,5,Death
+341,Venari Bonesmith,3,2,500,20,Death
+353,Carrion Shade,7,1,125,5,Death
+354,Riftwing,7,1,125,5,Death
+355,Shadow Snitch,7,1,125,5,Death
+356,Crypt Beetle,7,1,125,5,Death
+357,Silent Sha-vi,7,1,125,5,Death
+358,Soul Strangler,7,2,500,20,Death
+359,Life Sapper,7,2,500,20,Death
+360,Dhampir Stalker,7,2,500,20,Death
+361,Cursed Windeku,7,2,500,20,Death
+438,Thaddius Brood,7,2,500,20,Death
+453,Ever-Hungry Skull,3,1,125,5,Death
+349,Gargoya Lion,3,1,125,5,Neutral
+350,Gargoya Devil,3,2,500,20,Neutral
+423,Supply Runner,7,1,125,5,Neutral
+424,Scavo Hireling,7,1,125,5,Neutral
+425,Disintegrator,7,1,125,5,Neutral
+426,Chaos Agent,7,1,125,5,Neutral
+427,Xenith Archer,7,2,500,20,Neutral
+428,Xenith Monk,7,2,500,20,Neutral
+429,Venari Spellsmith,7,2,500,20,Neutral
